@@ -1,0 +1,20 @@
+{
+  "Users": [
+    {
+      "GrpcAddr": "127.0.0.1:50052",
+      "UserName": "01",
+      "UserId": "001",
+      "AbsFileDir": "import api\nimport random\nrandom.seed(111)",
+      "Params": {
+        "RequestId": "123",
+        "initUserDeadLine": 0
+      }
+    },
+    {
+      "GrpcAddr": "127.0.0.1:50053",
+      "UserName": "02",
+      "UserId": "002",
+      "AbsFileDir": "import api\nimport random\nrandom.seed(333)"
+    }
+  ]
+}

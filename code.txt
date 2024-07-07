@@ -1,0 +1,5 @@
+# User 001 code
+import api\nimport random\nrandom.seed(111)
+
+# User 002 code
+import api\nimport random\nrandom.seed(333)
